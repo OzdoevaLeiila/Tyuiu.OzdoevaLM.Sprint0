@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.OzdoevaLM.Sprint0.Task0.V0", "Tyuiu.OzdoevaLM.Sprint0.Task0.V0\Tyuiu.OzdoevaLM.Sprint0.Task0.V0.csproj", "{F03AD481-FFFA-449A-89E9-0BFC5A25B4F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{8DFC7D77-D4A4-422B-A4D2-666C87C6C959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.OzdoevaLM.Sprint0.Task1.V0", "Tyuiu.OzdoevaLM.Sprint0.Task1.V0\Tyuiu.OzdoevaLM.Sprint0.Task1.V0.csproj", "{A2A0D981-3568-416E-A8CE-94E7EBA7725B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{F03AD481-FFFA-449A-89E9-0BFC5A25B4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F03AD481-FFFA-449A-89E9-0BFC5A25B4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F03AD481-FFFA-449A-89E9-0BFC5A25B4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2A0D981-3568-416E-A8CE-94E7EBA7725B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A0D981-3568-416E-A8CE-94E7EBA7725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A0D981-3568-416E-A8CE-94E7EBA7725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A0D981-3568-416E-A8CE-94E7EBA7725B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F03AD481-FFFA-449A-89E9-0BFC5A25B4F4} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A2A0D981-3568-416E-A8CE-94E7EBA7725B} = {8DFC7D77-D4A4-422B-A4D2-666C87C6C959}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7E050398-2602-4073-8FCE-9D1AF4A21A65}
